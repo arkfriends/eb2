@@ -1,17 +1,4 @@
 
-## Notation
-
-| Symbol| Description|
-|-------------|-------------|
-|![Start event](images/start-event.png) | Start Event: Start of the process chain |
-|![End event](images/end-event.png) | End Event: The end of the process chain |
-|![Event message catch](images/event-message-catch.png) | Event Message Catch: wait for a message event |
-|![Event message throw](images/event-message-throw.png) | Event Message Throw: sending a message event |
-|![Task](images/task.png) | Task: Work to be done |
-|![XOR Gateway](images/xor-gateway.png) | XOR Gateway: choice of a action stream |
-|Parallel Gateway | Parallel Gateway: initiate simulataneous action stream |
-|Parallel Swimlanes | Swim lanes: separate the process by roles or actors |
-
 ### Symbol palettes:
 
 ![yEd BPMN Symbol Palette](images/yedpalette.png)
