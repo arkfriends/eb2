@@ -1,3 +1,4 @@
 0.Preface.md
 1.GeneralPrinciples.md
+2.BusinessSoftwareModels.md
 5.Bibliography.md
